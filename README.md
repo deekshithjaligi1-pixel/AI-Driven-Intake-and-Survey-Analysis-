@@ -1,2 +1,3 @@
 # AI-Driven-Intake-and-Survey-Analysis-
-Cognative wellness Companion
+Cognative wellness Companion 
+System Architecture 
